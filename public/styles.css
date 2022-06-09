@@ -4,5 +4,9 @@ body {
 }
 h1 {
   color: black;
-  text-align: center;
+  text-align: left;
+}
+h2 {
+  color: black;
+  text-align: left;
 }
